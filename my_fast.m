@@ -7,9 +7,9 @@ b_r_d = (bin2dec(b_r))';
 J = N/2;
 K = 1;
 buffer = zeros (1, N);
-newS  = b_r_d +1;%стало
+newS  = b_r_d +1;
 Temp = S;
-S = Temp (newS);%стало
+S = Temp (newS);
 while J>=1
 if J<N/2
     Tmp = buffer;
