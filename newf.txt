@@ -1,3 +1,5 @@
 some text
 some new change
+<<<<<<< HEAD
 resolved hotfix
+>>>>>>> iss53
